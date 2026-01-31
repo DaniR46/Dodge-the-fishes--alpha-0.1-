@@ -3,7 +3,7 @@
 Welcome to **Dodge the Fishes**!
 This is an endless arcade survival game developed with **Godot Engine 4**.
 
-The goal is simple: dodge the sharks, avoid the lights, and survive as long as possible to set a new High Score!
+The goal is simple: dodge the fishes and survive as long as possible to set a new High Score!
 
 ---
 
