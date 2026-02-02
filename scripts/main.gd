@@ -30,6 +30,7 @@ func game_over():
 	$DeathSound.play()
 	
 func new_game():
+	get_tree().paused = false
 	score = 0
 	$Player.start($StartPosition.position)
 	$StartTimer.start()

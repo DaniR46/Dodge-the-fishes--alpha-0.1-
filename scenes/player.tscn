@@ -36,6 +36,7 @@ radius = 27.0
 height = 68.0
 
 [node name="Player" type="Area2D" unique_id=291940637]
+process_mode = 1
 script = ExtResource("1_sweqy")
 metadata/_edit_group_ = true
 
